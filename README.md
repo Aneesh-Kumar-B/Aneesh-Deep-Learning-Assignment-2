@@ -133,6 +133,12 @@ MobileNet achieves similar performance with significantly reduced computational 
 
 * Red Box → Predicted Bounding Box
 * Green Box → Ground Truth
+<img width="360" height="355" alt="image" src="https://github.com/user-attachments/assets/c938b947-34aa-4120-9cb6-e023fb8fa82b" />
+<img width="363" height="364" alt="image" src="https://github.com/user-attachments/assets/14ebebb0-a6aa-499a-9f33-7a278a26c131" />
+<img width="362" height="369" alt="image" src="https://github.com/user-attachments/assets/54b47d6d-b343-40d3-80da-8589e974a2e0" />
+<img width="361" height="359" alt="image" src="https://github.com/user-attachments/assets/e6d096ca-22be-4f06-8aef-d244daca93c7" />
+<img width="361" height="370" alt="image" src="https://github.com/user-attachments/assets/2d8c5ea3-fe51-4590-b762-e543bd57a585" />
+
 
 ### Observations
 
